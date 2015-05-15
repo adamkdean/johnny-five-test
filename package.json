@@ -1,10 +1,10 @@
 {
   "name": "johnny-five-test",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "description": "Test",
+  "main": "lib/index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node --harmony lib/index.js"
   },
   "author": "Adam K Dean <adamkdean@googlemail.com> (http://www.adamkdean.co.uk/)",
   "license": "ISC",
